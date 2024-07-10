@@ -131,16 +131,16 @@ const WeatherForecast = () => {
       <form onSubmit={handleSubmit}>
         <div className="row fixed-width-row g-0">
           <h2 className="mb-3">2-Hour Weather Forecast</h2>
-          <div className="forecast-container mb-3">
+          <div className="forecast-container">
             {selectedForecast && (
               <div className="forecast-display">
-                <p>
+                <p className="mt-2 ms-4 me-4">
                   Forecast for {submittedArea} from{" "}
                   {formatTime(new Date(data.valid_period.start))} to{" "}
                   {formatTime(new Date(data.valid_period.end))}
                 </p>
                 <i className={selectIcon(selectedForecast)}></i>
-                <p className="forecast-text mb-4">{selectedForecast}</p>
+                <p className="forecast-text">{selectedForecast}</p>
                 <p>
                   Updated at: {formatDateTime(new Date(data.update_timestamp))}
                 </p>

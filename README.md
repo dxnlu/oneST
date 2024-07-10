@@ -1,4 +1,4 @@
-# oneST
+# OneST
 
 OneST is a web portal that provide multiple services to the public.
 
