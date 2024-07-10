@@ -11,13 +11,13 @@ Current features in OneST include:
 
 ## Requirements
 
-- Node
-- React
-- React Router
-- Typescript
-- Bootstrap
-- Bootstrap icons
-- Vite
+- Node v5.3.1
+- Vite v5.3.1
+- React v18.3.1
+- React Router v6.24.1
+- Typescript v5.2.2
+- Bootstrap v.5.3.3
+- Bootstrap icons v1.11.3
 
 ## Installation
 
