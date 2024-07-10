@@ -21,13 +21,13 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
-            <NavLink className="nav-link" to="/home">
+            <NavLink className="nav-link" to="/oneST/">
               Home
             </NavLink>
-            <NavLink className="nav-link" to="/uen-validator">
+            <NavLink className="nav-link" to="/oneST/uen-validator/">
               UEN Validator
             </NavLink>
-            <NavLink className="nav-link" to="/weather-forecast">
+            <NavLink className="nav-link" to="/oneST/weather-forecast/">
               Weather Forecast
             </NavLink>
           </div>

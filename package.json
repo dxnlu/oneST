@@ -2,7 +2,7 @@
   "name": "onest",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://dxnlu.github.io/home/",
+  "homepage": "https://dxnlu.github.io/oneST/",
   "type": "module",
   "scripts": {
     "dev": "vite",
