@@ -25,5 +25,6 @@ Current features in OneST include:
 2. Install dependencies `npm install`
 3. Run app `npm run dev`
 4. To build the app `npm run build`
+5. Features can be accessed through the navigation bar links above
 
 ## Alternatively checkout the live app [HERE](https://dxnlu.github.io/oneST/)
